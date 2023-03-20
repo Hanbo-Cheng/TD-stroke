@@ -1,0 +1,8 @@
+CROHME/
+*.pkl
+*.pyc
+*.zip
+test_result/
+test_result_B
+test_result_C
+difference_bi_uni
